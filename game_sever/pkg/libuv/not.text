@@ -1,0 +1,4 @@
+
+test.c -L /lib -luv
+LD_LIBRARY_PATH=/usr/local/libuv/lib
+export LD_LIBRARY_PATH
